@@ -1,6 +1,6 @@
 {
   "name": "MTK Token List",
-  "logoURI": "https://raw.githubusercontent.com/abbb.ahfyesh231-cpu/M-token/main/images/mtk/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/abbbahfyesh231-cpu/M-token/main/images/mtk/logo.png",
   "keywords": ["MTK", "token", "crypto"],
   "timestamp": "2025-01-01T00:00:00+00:00",
   "tokens": [
@@ -10,7 +10,7 @@
       "name": "MTK",
       "symbol": "MTK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/abbb.ahfyesh231-cpu/M-token/main/images/mtk/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/abbbahfyesh231-cpu/M-token/main/images/mtk/logo.png"
     }
   ],
   "version": {

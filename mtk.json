@@ -1,0 +1,9 @@
+{
+  "name": "MTK Token",
+  "symbol": "MTK",
+  "decimals": 18,
+  "chainId": 1,
+  "description": "Official MTK token on Ethereum.",
+  "address": "0x244f0c2636368a1dd724af279a0b5d78fab8f29b",
+  "logoURI": "https://raw.githubusercontent.com/abbbahfyesh231-cpu/M-token/main/images/mtk/logo.png"
+}
